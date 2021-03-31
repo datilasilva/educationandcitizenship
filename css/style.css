@@ -1,0 +1,166 @@
+body{
+  text-align: justify;
+  font-family: Open Sans, sans-serif;
+  background-color: aliceblue;
+  color: rgb(3, 3, 24);
+  margin: 0px 0px 30px 0px;
+}
+
+ul{
+  text-align: center;
+}
+
+div{
+  background-color: white;
+  margin-left: 330px;
+  margin-right: 330px;
+}
+foolder{
+  height: 50%;
+}
+
+h2{
+  color: yellowgreen;
+  font-size: 40px;
+  text-align: center;
+  padding: 40px;
+  padding-top: 50px;
+}
+
+.indagaçao{
+  color:  rgba(65, 186, 216, 0.767);
+  text-align: center;
+}
+.comentario{
+  color:rgba(65, 186, 216, 0.767);
+  text-align: center;
+
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.titulo-verde{
+  
+  color: rgb(3, 3, 24);
+  text-align: center;
+  font-size: 30px;
+  background-color: powderblue;
+}
+
+section{
+  width: 95%;
+  margin: 0 auto;
+  padding: 0 0  1% 0;
+
+}
+
+h3{
+  margin-block-start: 0.5em;
+}
+h1{
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  color: lightblue;
+}
+
+section section{
+  width: 100%;
+  padding-top: 1%;
+}
+
+p{
+  font-size: 20px;
+  line-height: 1.5;
+  text-indent: 2em;
+}
+
+img{
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a{
+  text-decoration: none;
+  color: rgba(65, 186, 216, 0.77);
+  font-weight: 700;
+}
+
+.principal{
+
+  height: 40px;
+  max-width: 70%;
+  margin: 0 auto;
+  
+}
+
+.principal a{
+  color: rgb(3, 3, 24);
+  font-weight: normal;
+}
+
+.principal li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 40px;
+}
+li{
+  font-size: 14px;
+}
+
+
+.div img {
+    margin-left: -25%;
+    margin-right: 100%;
+    width: 150%;
+}
+
+.soluçao{
+  text-align:justify;
+  color: rgba(65, 186, 216, 0.767);
+  margin-left: 30%;
+  margin-right: 30%;
+  text-indent: 0;
+  font-size: 18px;
+}
+
+.pergunta{
+  text-align:justify;
+  color: rgb(10, 10, 70);
+  margin-left: 30%;
+  margin-right: 30%;
+  text-indent: 0;
+  font-size: 18px;
+}
+
+#aplication{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   
+    
+}
+
+#rodape{
+  padding: 20px;
+  background-color:rgb(201, 240, 245)!important;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.textoimagem{
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0em;
+  padding: 0em;
+}
